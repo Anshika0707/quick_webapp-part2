@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+#score{
+    font-size: 25px ;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 25px ;
+    margin-right: 20px;
+}
+h1{
+    background-color: teal;
+    color: powderblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    color: navy;
+}
+canvas{
+    border-radius: 30px;
+}
